@@ -50,5 +50,5 @@ pip install -r requirements.txt
 4. Run the Jupyter Notebook or Python script for that project.
 
 ## 📧 Contact
-Author: Shantanu Bondre
-GitHub: shantanu-b05
+-Author: Shantanu Bondre
+-GitHub: shantanu-b05
